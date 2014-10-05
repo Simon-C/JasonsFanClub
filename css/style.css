@@ -81,6 +81,9 @@ img {
 	width: 100%;
 	height: 100%;
 }
+.link-1{
+	word-wrap: normal;
+}
 
 address {
 	font-style: normal;
@@ -493,6 +496,9 @@ header.page5 .hover {
 .companies .text1 {
 	margin-bottom: 9px;
 }
+#emailstuff{
+	overflow: visible;
+}
 
 .companies a {
 	display: inline-block;
@@ -522,7 +528,7 @@ header.page5 .hover {
 
 .map {
 	text-align: left;
-	overflow: hidden;
+	overflow: visible;
 	padding-top: 5px;
 }
 
